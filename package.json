@@ -1,0 +1,18 @@
+{
+  "name": "acamica-docker",
+  "description": "Aprendiendo Docker",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^3.21.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "author": "Martina Cortes",
+  "license": "ISC"
+}
